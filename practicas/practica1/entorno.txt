@@ -1,0 +1,6 @@
+gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
+g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
+Python 3.10.12
+numpy 2.2.6
+git version 2.34.1
+#define _OPENMP 201511
