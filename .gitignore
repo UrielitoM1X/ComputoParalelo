@@ -1,0 +1,14 @@
+# ejecutables y objetos
+practicas/*/src/matmul_O0
+practicas/*/src/matmul_O2
+practicas/*/src/matmul_O3
+practicas/*/src/hello_omp
+*.o
+*.out
+# entornos y cachés
+cp-env/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+# sistema
+.DS_Store
