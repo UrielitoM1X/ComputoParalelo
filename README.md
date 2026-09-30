@@ -8,7 +8,7 @@ Repositorio del equipo NN para las Prácticas 1–6 y el proyecto integrador.
 |---|---|---|
 |Dimas Gonzalez Santiago |2024631046 |linkgamer10700 |
 | | | |
-|Miranda Ferreyra Uriel |2024630834 |miranda.ferreyra.uriel@gmail.com |
+|Miranda Ferreyra Uriel |2024630834 |UrielitoM1X |
 
 ## Fichas técnicas de hardware
 ### Santiago Dimas Gonzalez
