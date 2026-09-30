@@ -43,6 +43,9 @@ Repositorio del equipo NN para las Prácticas 1–6 y el proyecto integrador.
 | **GPU (si hay)** | NVIDIA GeForce RTX 3060 Ti (Driver: 580.178.04, CUDA: 13.0) |
 | **Condiciones** | PC de escritorio, gobernador de CPU schedutil, sin otras aplicaciones pesadas abiertas durante la ejecución.* |
 
+### Aclaraciones
+En el desarrollo de las practicas y el proyecto para la materia, el equipo opto por utilizar un equipo compartido el cual es usado remotamente como servidor privado, es por eso que los datos en las tablas son las mismas.
+
 ## Convenciones
 
 - Rama `main` siempre funcional; trabajo en ramas `practicaN/...` con pull request.
