@@ -12,3 +12,4 @@ __pycache__/
 *.pyc
 # sistema
 .DS_Store
+README.md.save
