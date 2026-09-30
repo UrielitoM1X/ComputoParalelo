@@ -28,7 +28,7 @@ Repositorio del equipo NN para las Prácticas 1–6 y el proyecto integrador.
 
 ### El chis
 
-### Santiago Dimas Gonzalez
+### Uriel Miranda Ferreyra
 | Campo | Valor |
 | :--- | :--- |
 | **Modelo de CPU** | AMD Ryzen 5 3600 6-Core Processor |
