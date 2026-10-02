@@ -1,8 +1,8 @@
 # ejecutables y objetos
-practicas/*/src/matmul_O0
-practicas/*/src/matmul_O2
-practicas/*/src/matmul_O3
-practicas/*/src/hello_omp
+practicas/practica1/src/matmul_00
+practicas/practica1/src/matmul_02
+practicas/practica1/src/matmul_03
+practicas/practica1/src/hello_omp
 *.o
 *.out
 # entornos y cachés
@@ -12,4 +12,4 @@ __pycache__/
 *.pyc
 # sistema
 .DS_Store
-README.md.save
+NOTAS.md
